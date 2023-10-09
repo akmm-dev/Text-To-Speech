@@ -59,6 +59,7 @@ textarea{
     border-radius: 10px;
     padding: 10px;
     font-size: 90%;
+    background-color: transparent;
 }
 .footer {
     width: 100%;
